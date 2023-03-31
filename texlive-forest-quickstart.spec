@@ -1,6 +1,6 @@
 Name:		texlive-forest-quickstart
 Version:	55688
-Release:	1
+Release:	2
 Summary:	Quickstart Guide for Linguists package "forest"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/forest-quickstart
