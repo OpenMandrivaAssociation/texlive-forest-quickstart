@@ -3,7 +3,7 @@ Version:	55688
 Release:	2
 Summary:	Quickstart Guide for Linguists package "forest"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/forest-quickstart
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/forest-quickstart
 License:	fdl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/forest-quickstart.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/forest-quickstart.doc.r%{version}.tar.xz
